@@ -1,7 +1,7 @@
 id = "zoegi-theme"
 name = "Zoegi Theme"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["Nikita Pashinsky <n@nkta.me>"]
-description = "Unofficial port of the VS Code Moegi theme by Diu"
+description = "A port of the Moegi theme for Zed. Light and dark variants."
 repository = "https://github.com/nikitapashinsky/zoegi-theme"

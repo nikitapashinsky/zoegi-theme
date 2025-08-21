@@ -1,19 +1,23 @@
 # Zoegi Theme
 
-Zoegi is an unofficial Zed port of the [VS Code Moegi theme](https://github.com/moegi-design/vscode-theme), originally created by [Diu](https://github.com/ddiu8081) and [Gadzhi Kharkharov](https://github.com/kkga).
+Zoegi is a theme for [Zed](https://zed.dev).
+
+It's based on the beautiful [Moegi theme for VS Code](https://github.com/moegi-design/vscode-theme) created by [Diu](https://github.com/ddiu8081).
 
 ## Preview
 
-### Zoegi Dark
-![Zoegi Dark Theme](./assets/zoegi-dark.png)
+Zoegi currently includes two variants: light and dark.
 
 ### Zoegi Light
 ![Zoegi Light Theme](./assets/zoegi-light.png)
 
-## Installation
+### Zoegi Dark
+![Zoegi Dark Theme](./assets/zoegi-dark.png)
 
-Drop the `zoegi.json` file into the `themes/` subdirectory inside the Zed config:
+## How to install
+
+Drop `zoegi.json` into the `themes/` subdirectory inside the Zed config:
 
 ```
-~/.config/zed/themes
+~/.config/zed/themes/
 ```
