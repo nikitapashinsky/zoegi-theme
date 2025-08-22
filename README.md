@@ -2,13 +2,20 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./.github/logo-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./.github/logo-light.svg">
-      <img alt="Zoegi Theme" src="./.github/logo-light.svg" style="max-width: 100%;">
+      <img alt="Zoegi Theme" src="./.github/logo-light.svg" width="250">
     </picture>
 </p>
 
-Zoegi is a theme for [Zed](https://zed.dev).
 
-It's based on the beautiful [Moegi theme for VS Code](https://github.com/moegi-design/vscode-theme) created by [Diu](https://github.com/ddiu8081).
+<p align="center">
+    A beautiful, easy on the eyes theme for Zed.
+</p>
+
+<br>
+
+# Zoegi Theme
+
+Zoegi is a theme for [Zed](https://zed.dev). It's based on the beautiful [Moegi theme for VS Code](https://github.com/moegi-design/vscode-theme) created by [Diu](https://github.com/ddiu8081).
 
 ## Preview
 
@@ -34,3 +41,8 @@ Drop `zoegi.json` into the `themes/` subdirectory inside the Zed config:
 ```
 ~/.config/zed/themes/
 ```
+
+## Credits
+
+- Based on the [Moegi theme for VS Code](https://github.com/moegi-design/vscode-theme) by [Diu](https://github.com/ddiu8081).
+- Font used in wordmark is [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk).
