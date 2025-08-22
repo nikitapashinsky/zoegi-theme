@@ -7,6 +7,14 @@
       "name": "Zoegi Dark",
       "appearance": "dark",
       "style": {
+        "accents": [
+          "#74CCAA",
+          "#77B9C0",
+          "#A0A5D6",
+          "#ED9CC2",
+          "#FF8787",
+          "#F6C177"
+        ],
         "version_control.added": "#66b395cc",
         "version_control.deleted": "#D07D72cc",
         "version_control.deleted_background": "#D07D72",
@@ -84,8 +92,8 @@
         "editor.document_highlight.write_background": "#1b3129",
         "terminal.background": "#181818",
         "terminal.foreground": "#dddddd",
-        "terminal.bright_foreground": "#F0F0F0",
-        "terminal.dim_foreground": "#ff0000",
+        "terminal.bright_foreground": "#dddddd",
+        "terminal.dim_foreground": "#dddddd",
         "terminal.ansi.black": "#282c33ff",
         "terminal.ansi.bright_black": "#525561ff",
         "terminal.ansi.dim_black": "#dce0e5ff",
@@ -101,7 +109,7 @@
         "terminal.ansi.blue": "#74ade8ff",
         "terminal.ansi.bright_blue": "#385378ff",
         "terminal.ansi.dim_blue": "#bed5f4ff",
-        "terminal.ansi.magenta": "#be5046ff",
+        "terminal.ansi.magenta": "#A974B3",
         "terminal.ansi.bright_magenta": "#5e2b26ff",
         "terminal.ansi.dim_magenta": "#e6a79eff",
         "terminal.ansi.cyan": "#6eb4bfff",
@@ -110,7 +118,7 @@
         "terminal.ansi.white": "#dce0e5ff",
         "terminal.ansi.bright_white": "#dce0e5ff",
         "terminal.ansi.dim_white": "#575d65ff",
-        "link_text.hover": "#74ade8ff",
+        "link_text.hover": "#77B9C0",
         "version_control_added": "#a7c088ff",
         "version_control_modified": "#dec184ff",
         "version_control_deleted": "#d07277ff",
@@ -130,13 +138,13 @@
         "hidden.background": "#696b771a",
         "hidden.border": "#414754ff",
         "hint": "#ffffff33",
-        "hint.background": "#56B6C01F",
+        "hint.background": "#56B6C033",
         "hint.border": "#77B9C04D",
         "ignored": "#777777",
         "ignored.background": "#777777",
         "ignored.border": "#777777",
         "info": "#70b7be",
-        "info.background": "#56B6C01F",
+        "info.background": "#56B6C033",
         "info.border": "#77B9C04D",
         "modified": "#e7d38f",
         "modified.background": "#e7d38f",
@@ -154,8 +162,8 @@
         "unreachable.background": "#8389941a",
         "unreachable.border": "#464b57ff",
         "warning": "#dec184ff",
-        "warning.background": "#dec18426",
-        "warning.border": "#dec18440",
+        "warning.background": "#D9AF574D",
+        "warning.border": "#E6D0A159",
         "players": [
           {
             "cursor": "#ff8787",
@@ -240,12 +248,12 @@
             "font_weight": null
           },
           "emphasis": {
-            "color": "#74ade8ff",
-            "font_style": null,
+            "color": "#FFFFFF",
+            "font_style": "italic",
             "font_weight": null
           },
           "emphasis.strong": {
-            "color": "#bf956aff",
+            "color": "#FFFFFF",
             "font_style": null,
             "font_weight": 700
           },
@@ -270,7 +278,7 @@
             "font_weight": null
           },
           "label": {
-            "color": "#74ade8ff",
+            "color": "#ED9CC2",
             "font_style": null,
             "font_weight": null
           },
@@ -290,7 +298,7 @@
             "font_weight": null
           },
           "operator": {
-            "color": "#d07277ff",
+            "color": "#FF8787",
             "font_style": null,
             "font_weight": null
           },
@@ -394,6 +402,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "type.builtin": {
+            "color": "#F3A580",
+            "font_style": null,
+            "font_weight": null
+          },
           "type.unit": {
             "color": "#F3A580",
             "font_style": null,
@@ -421,6 +434,14 @@
       "name": "Zoegi Light",
       "appearance": "light",
       "style": {
+        "accents": [
+          "#377961",
+          "#568B99",
+          "#6B588E",
+          "#C05386",
+          "#D47070",
+          "#C7792B"
+        ],
         "version_control.added": "#5C9983",
         "version_control.deleted": "#C45A4B",
         "version_control.deleted_background": "#d07277ff",
@@ -499,19 +520,19 @@
         "terminal.ansi.black": "#fafafaff",
         "terminal.ansi.bright_black": "#aaaaaaff",
         "terminal.ansi.dim_black": "#242529ff",
-        "terminal.ansi.red": "#d36151ff",
+        "terminal.ansi.red": "#C45A4B",
         "terminal.ansi.bright_red": "#f0b0a4ff",
         "terminal.ansi.dim_red": "#6f312aff",
         "terminal.ansi.green": "#408055",
         "terminal.ansi.bright_green": "#b2cfa9ff",
         "terminal.ansi.dim_green": "#354d2eff",
-        "terminal.ansi.yellow": "#dec184ff",
+        "terminal.ansi.yellow": "#BF9040cc",
         "terminal.ansi.bright_yellow": "#826221ff",
         "terminal.ansi.dim_yellow": "#786441ff",
         "terminal.ansi.blue": "#4772B3",
         "terminal.ansi.bright_blue": "#b5baf2ff",
         "terminal.ansi.dim_blue": "#2d3d75ff",
-        "terminal.ansi.magenta": "#984ea5ff",
+        "terminal.ansi.magenta": "#9B63A5",
         "terminal.ansi.bright_magenta": "#cea6d3ff",
         "terminal.ansi.dim_magenta": "#4b2a50ff",
         "terminal.ansi.cyan": "#3B87B7",
@@ -520,10 +541,7 @@
         "terminal.ansi.white": "#242529ff",
         "terminal.ansi.bright_white": "#242529ff",
         "terminal.ansi.dim_white": "#97979aff",
-        "link_text.hover": "#3B87B7",
-        "version_control_added": "#ff0000",
-        "version_control_modified": "#ff0000",
-        "version_control_deleted": "#ff0000",
+        "link_text.hover": "#568B99",
         "conflict": "#a48819ff",
         "conflict.background": "#faf2e6ff",
         "conflict.border": "#f4e7d1ff",
@@ -551,7 +569,7 @@
         "modified": "#B28234",
         "modified.background": "#faf2e6ff",
         "modified.border": "#f4e7d1ff",
-        "predictive": "#1A333380",
+        "predictive": "#999999",
         "predictive.background": "#dfeadbff",
         "predictive.border": "#c8dcc1ff",
         "renamed": "#5c78e2ff",
@@ -563,9 +581,9 @@
         "unreachable": "#58585aff",
         "unreachable.background": "#dcdcddff",
         "unreachable.border": "#c9c9caff",
-        "warning": "#b28234",
-        "warning.background": "#bf7e1326",
-        "warning.border": "#bf7e1359",
+        "warning": "#B38F47",
+        "warning.background": "#FAEED7",
+        "warning.border": "#B38F4766",
         "players": [
           {
             "cursor": "#e38181",
@@ -655,12 +673,12 @@
             "font_weight": null
           },
           "emphasis": {
-            "color": "#5c78e2ff",
-            "font_style": null,
+            "color": "#191919",
+            "font_style": "italic",
             "font_weight": null
           },
           "emphasis.strong": {
-            "color": "#ad6e25ff",
+            "color": "#191919",
             "font_style": null,
             "font_weight": 700
           },
@@ -685,7 +703,7 @@
             "font_weight": null
           },
           "label": {
-            "color": "#5c78e2ff",
+            "color": "#C05386",
             "font_style": null,
             "font_weight": null
           },
@@ -715,7 +733,7 @@
             "font_weight": null
           },
           "predictive": {
-            "color": "#9b9ec6ff",
+            "color": "#999999",
             "font_style": "italic",
             "font_weight": null
           },
