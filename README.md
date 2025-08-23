@@ -33,7 +33,7 @@ Zoegi currently includes light and dark variants.
 
 ### Extension Gallery
 
-1. Launch the Zed Extension Gallery by pressing `⌘⇧X`, opening the command palette and selecting `zed: extensions` or by selecting "Zed > Extensions" from the menu bar.
+1. Launch the Zed Extension Gallery by pressing **⌘⇧X**, opening the command palette and selecting `zed: extensions` or by selecting "Zed > Extensions" from the menu bar.
 2. Search for "Zoegi Theme" and click "Install"
 
 ### Manual installation
