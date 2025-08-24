@@ -1,15 +1,15 @@
-<svg width="900" height="112" viewBox="0 0 900 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="80" viewBox="0 0 900 80" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_85_284)">
-<rect y="106" width="143.333" height="6" fill="#74CCAA"/>
-<rect x="151.333" y="106" width="143.333" height="6" fill="#77B9C0"/>
-<rect x="302.667" y="106" width="143.333" height="6" fill="#A0A5D6"/>
-<rect x="454" y="106" width="143.333" height="6" fill="#ED9CC2"/>
-<rect x="605.333" y="106" width="143.333" height="6" fill="#FF8787"/>
-<rect x="756.667" y="106" width="143.333" height="6" fill="#F6C177"/>
+<rect y="72" width="143.333" height="8" fill="#74CCAA"/>
+<rect x="151.333" y="72" width="143.333" height="8" fill="#77B9C0"/>
+<rect x="302.667" y="72" width="143.333" height="8" fill="#A0A5D6"/>
+<rect x="454" y="72" width="143.333" height="8" fill="#ED9CC2"/>
+<rect x="605.333" y="72" width="143.333" height="8" fill="#FF8787"/>
+<rect x="756.667" y="72" width="143.333" height="8" fill="#F6C177"/>
 </g>
 <defs>
 <clipPath id="clip0_85_284">
-<rect width="900" height="112" fill="white"/>
+<rect width="900" height="80" fill="white"/>
 </clipPath>
 </defs>
 </svg>
