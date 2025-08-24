@@ -49,8 +49,6 @@ Drop `zoegi.json` into the `themes/` subdirectory inside the Zed config:
 - Based on the [Moegi theme for VS Code](https://github.com/moegi-design/vscode-theme) by [Diu](https://github.com/ddiu8081).
 - Font used in wordmark is [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk).
 
-<br>
-
 <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./.github/footer-dark.svg">
