@@ -10,7 +10,7 @@
 
 
 <p align="center">
-    A beautiful, easy on the eyes theme for Zed.
+    A charming and practical theme for Zed.
 </p>
 
 <br>
