@@ -24,10 +24,54 @@ Zoegi is a theme for [Zed](https://zed.dev). It's based on the beautiful [Moegi 
 Zoegi currently includes light and dark variants.
 
 ### Zoegi Light
-![Zoegi Light Theme](./.github/zoegi-light.png)
+
+**TypeScript**
+![Zoegi Light Theme](./.github/zoegi-light-ts.png)
+
+<details>
+<summary><strong>React</strong></summary>
+<img src="./.github/zoegi-light-tsx.png">
+</details>
+
+<details>
+<summary><strong>CSS</strong></summary>
+<img src="./.github/zoegi-light-css.png">
+</details>
+
+<details>
+<summary><strong>React + Tailwind CSS</strong></summary>
+<img src="./.github/zoegi-light-tailwind.png">
+</details>
+
+<details>
+<summary><strong>JSON</strong></summary>
+<img src="./.github/zoegi-light-json.png">
+</details>
 
 ### Zoegi Dark
-![Zoegi Dark Theme](./.github/zoegi-dark.png)
+
+**TypeScript**
+![Zoegi Dark Theme](./.github/zoegi-dark-ts.png)
+
+<details>
+<summary><strong>React</strong></summary>
+<img src="./.github/zoegi-dark-tsx.png">
+</details>
+
+<details>
+<summary><strong>CSS</strong></summary>
+<img src="./.github/zoegi-dark-css.png">
+</details>
+
+<details>
+<summary><strong>React + Tailwind CSS</strong></summary>
+<img src="./.github/zoegi-dark-tailwind.png">
+</details>
+
+<details>
+<summary><strong>JSON</strong></summary>
+<img src="./.github/zoegi-dark-json.png">
+</details>
 
 ## How to install
 
