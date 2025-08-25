@@ -48,6 +48,13 @@ Zoegi currently includes light and dark variants.
 <img src="./.github/zoegi-light-json.png">
 </details>
 
+<details>
+<summary><strong>UI screenshots</strong></summary>
+<img src="./.github/zoegi-light-git.png">
+<img src="./.github/zoegi-light-cmd.png">
+<img src="./.github/zoegi-light-chat.png">
+</details>
+
 ### Zoegi Dark
 
 **TypeScript**
@@ -71,6 +78,13 @@ Zoegi currently includes light and dark variants.
 <details>
 <summary><strong>JSON</strong></summary>
 <img src="./.github/zoegi-dark-json.png">
+</details>
+
+<details>
+<summary><strong>UI screenshots</strong></summary>
+<img src="./.github/zoegi-dark-git.png">
+<img src="./.github/zoegi-dark-cmd.png">
+<img src="./.github/zoegi-dark-chat.png">
 </details>
 
 ## How to install
