@@ -17,7 +17,7 @@
 
 # Zoegi Theme
 
-Zoegi is a pleasing and refined theme for [Zed](https://zed.dev). It's based on the beautiful [Moegi theme for VS Code](https://github.com/moegi-design/vscode-theme) created by [Diu](https://github.com/ddiu8081).
+Zoegi is a visually pleasing and polished theme for [Zed](https://zed.dev). It's based on the beautiful [Moegi theme for VS Code](https://github.com/moegi-design/vscode-theme) created by [Diu](https://github.com/ddiu8081).
 
 ## Preview
 
