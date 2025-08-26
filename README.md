@@ -49,7 +49,7 @@ Zoegi currently includes light and dark variants.
 </details>
 
 <details>
-<summary><strong>UI screenshots</strong></summary>
+<summary><strong>Git, Command Palette, Agent Panel</strong></summary>
 <img src="./.github/zoegi-light-git.png">
 <img src="./.github/zoegi-light-cmd.png">
 <img src="./.github/zoegi-light-chat.png">
@@ -81,7 +81,7 @@ Zoegi currently includes light and dark variants.
 </details>
 
 <details>
-<summary><strong>UI screenshots</strong></summary>
+<summary><strong>Git, Command Palette, Agent Panel</strong></summary>
 <img src="./.github/zoegi-dark-git.png">
 <img src="./.github/zoegi-dark-cmd.png">
 <img src="./.github/zoegi-dark-chat.png">
