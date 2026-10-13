@@ -1,6 +1,6 @@
 id = "zoegi-theme"
 name = "Zoegi Theme"
-version = "0.4.3"
+version = "0.4.4"
 schema_version = 1
 authors = [
     "Nikita Pashinsky <n@nkta.me>",
