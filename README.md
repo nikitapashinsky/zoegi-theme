@@ -19,9 +19,23 @@
 
 Zoegi is a visually pleasing and polished theme for [Zed](https://zed.dev). It's based on the beautiful [Moegi theme for VS Code](https://github.com/moegi-design/vscode-theme) created by [Diu](https://github.com/ddiu8081).
 
-## Preview
+## Variants
 
-Zoegi currently includes light and dark variants.
+Zoegi ships with 9 variants, all ported from Moegi:
+
+| Variant | Appearance |
+| --- | --- |
+| Zoegi Light | Light |
+| Zoegi Dark | Dark |
+| Zoegi Black | Dark |
+| Zoegi Space | Dark |
+| Zoegi Iris | Light |
+| Zoegi Dark Vitesse | Dark |
+| Zoegi Black Zen | Dark |
+| Zoegi Light Vitesse | Light |
+| Zoegi Dawn | Light |
+
+## Preview
 
 ### Zoegi Light
 
@@ -105,6 +119,7 @@ Drop `zoegi.json` into the `themes/` subdirectory inside the Zed config:
 ## Credits
 
 - Based on the [Moegi theme for VS Code](https://github.com/moegi-design/vscode-theme) by [Diu](https://github.com/ddiu8081).
+- Maintained by [Nikita Pashinsky](https://github.com/nikitapashinsky) and [Lucien Brey](https://github.com/lucien-brey).
 - Font used in wordmark is [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk).
 
 <p align="center">

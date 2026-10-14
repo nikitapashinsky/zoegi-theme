@@ -1,10 +1,10 @@
 id = "zoegi-theme"
 name = "Zoegi Theme"
-version = "0.4.4"
+version = "0.4.5"
 schema_version = 1
 authors = [
     "Nikita Pashinsky <n@nkta.me>",
     "Lucien Brey <lucien.brey@hotmail.fr>"
 ]
-description = "A port of Moegi theme for Zed. Light and dark variants."
+description = "A port of the Moegi theme for Zed."
 repository = "https://github.com/nikitapashinsky/zoegi-theme"
